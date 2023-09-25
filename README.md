@@ -1,5 +1,4 @@
-# Patika-V.Y.A.-Projeleri
-Veri Yapıları ve Algoritmalar Projeleri
+# Patika-V.Y.A.-Projeleri Veri Yapıları ve Algoritmalar Projeleri
 
 Proje 1 - Selection Sort Projesi
 
